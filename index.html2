@@ -1,0 +1,29 @@
+<html lang="en">
+
+<head>
+  <center>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="contact-me-style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>Maroun eid</title>
+
+    <body>
+      <div class="topnav">
+        <a style="color: #505050; 0.5px #484848; !important" class="active" href="index.html"><b>Home</b></a>
+        <a href="hobbys.html">Hobbys</a>
+        <a href="contact.html">Contact</a>
+        <a class="outliner" href="AboutMe.html">About My Self</a>
+      </div>
+      <br><br><br><br><br>
+      <div class="faint-cyan">
+      
+          <br><br>Mechanicl Engineer graduate from Tel aviv uni
+          <br> <br>has been asenior tutor for Robtics Course for hight school student
+          <br><br>I also volunteering as mathematics tutor for elemntary school student for underserved areas
+          <br><br> I chose to learn coding and work in this sumbject from now on.
+          <br><br>
+          <h2And a little more...</h2>
+         
+            <br><br>Amateur bicycle rider, loves to take part in off-road cycling groups
+          </p>
